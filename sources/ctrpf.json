@@ -1,0 +1,7 @@
+{
+  "imageName": "pablomk7/libctrpf",
+  "imageDigest": "sha256:a715eda6f60a88d955613445e289152fa1fe3d41474efd698a240623c4ee62d6",
+  "sha256": "06hwqx7a46whm7h2ja922vy5471l28p9581fqsbk0rr6fa4v5nnc",
+  "finalImageName": "pablomk7/libctrpf",
+  "finalImageTag": "0.8.0"
+}
