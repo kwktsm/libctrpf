@@ -64,7 +64,7 @@
     packages = pkgs: {
       devkitARM = mkDevkit pkgs {
         name = "devkitARM";
-        src = ./sources/devkitarm.json;
+        src = ./sources/libctrpf.json;
         includePaths = [
           "devkitARM"
           "devkitARM/arm-none-eabi"
